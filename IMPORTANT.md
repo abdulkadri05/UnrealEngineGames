@@ -8,10 +8,5 @@ To explore and download the projects, please visit the following GitLab reposito
 
 [Unreal Engine Projects on GitLab](https://gitlab.com/abdulkadri05/UnrealEngineProjects)
 
-## Projects Included:
-
-- CryptRaiderGame
-- ObstacleAssault
-- [Add more projects as needed]
 
 Thank you for checking out my work! If you have any questions or need further information, feel free to reach out.
